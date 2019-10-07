@@ -11,6 +11,7 @@ const AppNavigator = createStackNavigator({
       header: null,  
     },
     
+    
   },
   ScanQR : {
     screen: Scan,
